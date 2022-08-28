@@ -13,6 +13,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin "https://github.com/shhong0816/test.git"
 git push -u origin master
+ㄴ 여기서 sign in 하라고 로그인창 띄움
 
 이러면 연동된거
 
