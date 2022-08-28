@@ -22,6 +22,7 @@ git push -u origin master
 
 아래에 기록들 뜨면서 github site가서 main -> master로 이동시 수정된것 확인가능 수정임.
 
+안될떈 오른쪽 아래서 github 왼쪽에 upload모양 눌러서 되는지 확인까지 ㄱㄱ
 
 오른쪽 아래 github누르고 로그인도 가능
 
