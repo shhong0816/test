@@ -13,12 +13,14 @@ git add README.md
 git commit -m "first commit"
 git remote add origin "https://github.com/shhong0816/test.git"
 git push -u origin master
+ㄴ 여기서 sign in 하라고 로그인창 띄움
 
 이러면 연동된거
 
+
 이후 오른쪽 github tab에서 코드 변경후 stage all 클릭. commit to master클릭 (commit message optional)
 
-아래에 기록들 뜨면서 github site가면 수정임.
+아래에 기록들 뜨면서 github site가서 main -> master로 이동시 수정된것 확인가능 수정임.
 
 
 오른쪽 아래 github누르고 로그인도 가능
@@ -28,12 +30,5 @@ git push -u origin master
 
 
 
-
-
-
-
-
-
-
-
 Changelog1
+changelog2
