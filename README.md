@@ -1,6 +1,7 @@
 # test
 Github atom으로 사용하는 법 기억용.
 나중에 참고
+test.py에 자세한 방법 나옴
 
 test github in atom
 참고 url
